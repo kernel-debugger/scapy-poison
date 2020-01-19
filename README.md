@@ -1,4 +1,4 @@
-# python scapy multi-threaded arp poisoner
+# scappy two way arp poisoner with background scanning
 
 scans and targets hosts indivisually.
 
